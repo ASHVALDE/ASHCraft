@@ -1,0 +1,4 @@
+name: ASHCraft
+version: '${project.version}'
+main: com.ashvalde.ashcraft.ASHCraft
+api-version: '1.21'
